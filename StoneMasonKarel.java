@@ -15,7 +15,9 @@ public class StoneMasonKarel extends SuperKarel {
 	 * Postcondition: Karel is at the end of the column, with all the 
 	 * columns is repaired.  
 	 */
-
+/*
+ * Stone
+ * */
 	public void run(){
 		
 		while(frontIsClear()){
