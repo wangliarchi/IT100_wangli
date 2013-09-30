@@ -41,6 +41,8 @@ public class CheckerboardKarel extends SuperKarel {
 	}
 	/*pre-condition:karel standing at the Southwestmost corner,facing east.
 	 * post-condition:karel standing at the end of the row,facing east. 
+	 * 
+	 * 
 	 */
 		private void putOddBeeper(){
 			putBeeper();
